@@ -1715,7 +1715,7 @@
     "@@rules_oci~//oci:extensions.bzl%oci": {
       "general": {
         "bzlTransitiveDigest": "uR4Z+y828uDdulNg1z4TcTN60yXGiBjTczXUV7abKZI=",
-        "usagesDigest": "KlHtwR1ApTn7s2w4XaHO/78hm4gca4kpKJBUFXO2fLA=",
+        "usagesDigest": "KsuXU21WtWt8ipL3JMmOx/tIBcUx72/1UXb8zMTrvck=",
         "recordedFileInputs": {},
         "recordedDirentsInputs": {},
         "envVariables": {},
@@ -1954,7 +1954,7 @@
               "scheme": "https",
               "registry": "gcr.io",
               "repository": "distroless/static",
-              "identifier": "sha256:7e5c6a2a4ae854242874d36171b31d26e0539c98fc6080f942f16b03e82851ab",
+              "identifier": "sha256:3f2b64ef97bd285e36132c684e6b2ae8f2723293d09aae046196cca64251acac",
               "platforms": {
                 "@@platforms//cpu:x86_64": "@distroless_static_linux_amd64",
                 "@@platforms//cpu:arm64": "@distroless_static_linux_arm64_v8"
@@ -1970,7 +1970,7 @@
               "scheme": "https",
               "registry": "gcr.io",
               "repository": "distroless/static",
-              "identifier": "sha256:7e5c6a2a4ae854242874d36171b31d26e0539c98fc6080f942f16b03e82851ab",
+              "identifier": "sha256:3f2b64ef97bd285e36132c684e6b2ae8f2723293d09aae046196cca64251acac",
               "platform": "linux/arm64/v8",
               "target_name": "distroless_static_linux_arm64_v8",
               "bazel_tags": []
@@ -1983,7 +1983,7 @@
               "scheme": "https",
               "registry": "gcr.io",
               "repository": "distroless/static",
-              "identifier": "sha256:7e5c6a2a4ae854242874d36171b31d26e0539c98fc6080f942f16b03e82851ab",
+              "identifier": "sha256:3f2b64ef97bd285e36132c684e6b2ae8f2723293d09aae046196cca64251acac",
               "platform": "linux/amd64",
               "target_name": "distroless_static_linux_amd64",
               "bazel_tags": []
